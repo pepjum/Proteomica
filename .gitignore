@@ -1,0 +1,10 @@
+*.rds
+*.Rdata
+*.txt
+*.tsv
+*.csv
+*.pdf
+*.gtf
+*.gff
+*.xlsx
+./dmherrera/
